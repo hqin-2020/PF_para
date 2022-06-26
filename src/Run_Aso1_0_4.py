@@ -15,7 +15,7 @@ workdir = os.path.dirname(os.path.dirname(os.getcwd()))
 srcdir = os.getcwd()
 outputdir = workdir + '/output/'
 
-seed = 7
+seed = 8
 T = 300
 N = 10000
 Λ_scale = 0.1
