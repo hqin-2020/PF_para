@@ -3,7 +3,7 @@
 #SBATCH --job-name=pf4
 #SBATCH --output=pf4.out
 #SBATCH --error=pf4.err
-#SBATCH --time=6:00:00
+#SBATCH --time=4:00:00
 #SBATCH --partition=broadwl
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=28

@@ -1,9 +1,9 @@
 #!/bin/bash
 
-#SBATCH --job-name=pf
-#SBATCH --output=pf.out
-#SBATCH --error=pf.err
-#SBATCH --time=6:00:00
+#SBATCH --job-name=pf1
+#SBATCH --output=pf1.out
+#SBATCH --error=pf1.err
+#SBATCH --time=4:00:00
 #SBATCH --partition=broadwl
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=28

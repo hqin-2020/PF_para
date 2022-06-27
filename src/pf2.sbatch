@@ -3,7 +3,7 @@
 #SBATCH --job-name=pf2
 #SBATCH --output=pf2.out
 #SBATCH --error=pf2.err
-#SBATCH --time=6:00:00
+#SBATCH --time=4:00:00
 #SBATCH --partition=broadwl
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=28
