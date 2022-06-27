@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --account=pi-Def
+#SBATCH --account=pi-lhansen
 #SBATCH --job-name=pf3
 #SBATCH --output=pf3.out
 #SBATCH --error=pf3.err
