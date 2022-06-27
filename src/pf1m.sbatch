@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#SBATCH --account=pi-lhansen
 #SBATCH --job-name=pf1
 #SBATCH --output=pf1.out
 #SBATCH --error=pf1.err
